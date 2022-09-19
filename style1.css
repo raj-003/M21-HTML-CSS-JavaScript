@@ -1,0 +1,58 @@
+li.a{
+    text-align: end;
+    white-space: 15px;
+}
+header.a{
+    color: black;
+    background-color:royalblue;
+}
+article.a{
+    text-align: center;
+
+}
+header.b{
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-decoration: underline;
+
+}
+h3.a{
+    text-align: center;
+    text-decoration: underline ;
+    }
+    header.c{
+        text-align: left;
+    }
+    h1.b{
+        text-align: center;
+        text-decoration: underline;
+    }
+header.cont{
+    text-align: center;
+    color: white;
+    background-color: black;
+   
+}
+input.a{
+background-color: darkorange;
+padding: 12px;
+    color: black;
+}
+a.a{
+    background-color: darkorange;
+    padding: 12px;
+    color: black;  
+}
+div.column{
+    flex: 33.33%;
+}
+a.ac{
+    background-color: darkorange;
+    padding: 12px;
+    color: black;
+}
+body{
+    background-color: silver;
+
+}
